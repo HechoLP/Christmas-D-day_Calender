@@ -2,7 +2,7 @@
 
 ### Web site address
 
-https://hecholp.github.io/solar-system/](https://hecholp.github.io/Christmas-D-day_Calender/
+https://hecholp.github.io/Christmas-D-day_Calender/
 
 # Screenshot
 Here we have project screenshot :
